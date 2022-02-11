@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uğur Yeşilbaş</h1>
-<h3 align="center"> Software Developer </h3>
+<h3 align="center">Senior Software Developer </h3>
 
 
 
