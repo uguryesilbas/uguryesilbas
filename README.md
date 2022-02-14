@@ -36,9 +36,6 @@ http://www.istanbulunmetrosu.com
 
 If you want to talk about programming, coding, software development, or anything else, drop me a message.
 
-Skills: C#, .NET Core, Entity Framework Core, SQL, MongoDB, PostgreSQL, ASP.NET CORE MVC, 
-ASP.NET Core Web API, RabbitMQ, Redis, CQRS, DDD, GIT, DART
-
 ### Technical Information
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
