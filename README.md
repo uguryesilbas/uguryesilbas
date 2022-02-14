@@ -21,11 +21,17 @@ Yes, i am a programmer specialising in the app development arena. For the last 6
 I leave some of the projects I've been involved in here for you. But that's not all, of course. 😋
 
 https://sehirtiyatrolari.ibb.istanbul
+
 https://cozummerkezi.ibb.istanbul
+
 https://istanbuluseyret.ibb.gov.tr
+
 https://crrkonsersalonu.ibb.istanbul
+
 https://www.ibb.istanbul
+
 https://kultursanat.istanbul
+
 http://www.istanbulunmetrosu.com
 
 If you want to talk about programming, coding, software development, or anything else, drop me a message. I am eager to hear from LinkedIn users.
