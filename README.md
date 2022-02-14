@@ -34,7 +34,7 @@ https://kultursanat.istanbul
 
 http://www.istanbulunmetrosu.com
 
-If you want to talk about programming, coding, software development, or anything else, drop me a message. I am eager to hear from LinkedIn users.
+If you want to talk about programming, coding, software development, or anything else, drop me a message.
 
 Skills: C#, .NET Core, Entity Framework Core, SQL, MongoDB, PostgreSQL, ASP.NET CORE MVC, 
 ASP.NET Core Web API, RabbitMQ, Redis, CQRS, DDD, GIT, DART
