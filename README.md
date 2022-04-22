@@ -5,10 +5,11 @@
 
 💻 Senior Software Developer | .Net Core Developer 
 📱 Junior Flutter Developer | Dart | Flutter
+🌱 Junior React JS Developer 
 
 GitHub: https://github.com/uguryesilbas
 
-🌱 With me you can learn something new every day
+🔭 With me you can learn something new every day
 
 💌 You can reach me via uguryesilbas@outlook.com
 
@@ -16,7 +17,7 @@ First and foremost, I love writing code. Ever since writing my first program in 
 
 Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 
-Yes, i am a programmer specialising in the app development arena. For the last 6 years, I have been developing software using different technologies. For the last 6 month, I have been developing mobile app and web application using Flutter programming language.
+Yes, i am a programmer specialising in the app development arena. For the last 6 years, I have been developing software using different technologies.
 
 I leave some of the projects I've been involved in here for you. But that's not all, of course. 😋
 
