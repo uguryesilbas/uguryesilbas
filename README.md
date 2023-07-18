@@ -49,10 +49,10 @@ If you want to talk about programming, coding, software development, or anything
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/)
   
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-![RabbitMQ](https://img.shields.io/badge/RabbitMq-FF6C37?style=for-the-badge&logo=RabbitMq&logoColor=white)](https://www.rabbitmq.com/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMq-FF6C37?style=for-the-badge&logo=RabbitMq&logoColor=white)](https://www.rabbitmq.com/)
 
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
   
