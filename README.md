@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/444tuw.jpg"  />
+<img align="right" height="200" src="https://i.imgflip.com/444tuw.jpg"  />
 
 ###
 
